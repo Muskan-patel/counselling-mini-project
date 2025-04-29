@@ -1,1 +1,2 @@
-# counselling-mini-project
+# counselling-project
+student counselling project
